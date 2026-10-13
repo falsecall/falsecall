@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">falsecall</h1>
+<p align="center"><i>flagged by AOI · verified OK by operator</i></p>
 
-<!--
-**falsecall/falsecall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+┌─ INSPECTION REPORT ──────────────────────────────────────────┐
+│ board      : falsecall                                       │
+│ result     : NG  →  operator override  →  PASS               │
+│ defect     : none (false call)                               │
+│ notes      : SMT technician, connected to the Wired.         │
+│              builds things with microcontrollers & Pis,      │
+│              listens to the radio spectrum, learns C++.      │
+└──────────────────────────────────────────────────────────────┘
+```
 
-Here are some ideas to get you started:
+### 🔧 By day
+SMT technician: pick-and-place lines, AOI/AXI inspection, and the
+endless hunt for real defects among the false calls.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ By night
+- 📡 **Radio**: amateur radio, LoRa, SDR, satellite reception
+- 🔌 **Hardware**: ESP32 / Arduino builds, Raspberry Pi appliances
+- 🏠 **Homelab**: self-hosting everything that can be self-hosted
+- 💻 **Code**: learning C++ from scratch, Python for glue
+
+### 🧰 Toolbox
+`C++` · `Python` · `Linux` · `Raspberry Pi` · `ESP32` · `Docker` · `Git`
+
+---
+<p align="center"><sub>No solder bridges were harmed in the making of this profile.</sub></p>
